@@ -1,5 +1,6 @@
 # js_password_generator
 This is the repository for my Javascript Password Generator Project
+
 **Overview**
 
 In Businesses today, especially transactions occuring in a physical locations, it is imperative for employees to safeguard their work from unforseen attacks. The minimal requirement is for every staff to log on to the Company's local network with a secret password at every sign on. Even with the use of these secret passwords, some employees fall prey to attacks by compromising their passwords carelessly.
