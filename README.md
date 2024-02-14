@@ -13,3 +13,9 @@ In executing this project, I defined certain specifications including a combinat
 
 Acombination of HTML,CSS and Javascript codes were deployed for the installation of this project.
 
+**Credits**
+
+www.w3schools.com
+
+www.youtube.com
+
