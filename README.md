@@ -10,5 +10,6 @@ The motivation behind this project is to help users create a unique, secure, ran
 In executing this project, I defined certain specifications includin a combination of both upper and lower case letters, a minimum acceptable character length and special characters.
 
 **Installation**
+
 Acombination of HTML,CSS and Javascript codes were deployed for the installation of this project.
 
